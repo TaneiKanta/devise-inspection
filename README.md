@@ -1,0 +1,2 @@
+# devise-inspection
+deviseで生成されるusersテーブルを分割する検証リポジトリ
